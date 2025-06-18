@@ -22,6 +22,6 @@ const doStuffSequentially = () => Promise.resolve()
     .then(()=> unlink('file.txt'))
     .then(()=> 'file.txt removed')
     .then(console.log)
-    .then((error)=> console.error(error))
+    .catch((error)=> console.error(error))
 
 doStuffSequentially();
