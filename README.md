@@ -4,6 +4,8 @@ Welcome to this Node.js project inspired by the course **"Node.js: Asynchronous 
 
 This repository contains practical examples, demos, and exercises exploring **advanced asynchronous patterns** and **streaming data processing** in Node.js.
 
+<link>https://www.linkedin.com/learning-login/share?account=57692769&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fadvanced-node-js%3Ftrk%3Dshare_ent_url%26shareId%3DKmNPvl1YSoiZTeJGkzy%252Fow%253D%253D</link>
+
 ---
 
 ## 📚 What This Project Covers
